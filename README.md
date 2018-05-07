@@ -117,20 +117,7 @@ script: execute commands on the command line
 
 https://travis-ci.org/ 
 -- sync github here then can watch builds on pushes here
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-- change to show ci
 
 
 
